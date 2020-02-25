@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PS-VS-001", "PS-VS-001\PS-V
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CA-01-Block-Letters", "CA-Block-Letters\CA-Block-Letters.vcxproj", "{55BC2AB3-CE8C-4453-ADAF-9CB207156ABD}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CA-02-QuadraticEq", "CA-02-QuadraticEq\CA-02-QuadraticEq.vcxproj", "{ED40F300-F7E6-446C-9DA0-DD5256A0A890}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{55BC2AB3-CE8C-4453-ADAF-9CB207156ABD}.Release|x64.Build.0 = Release|x64
 		{55BC2AB3-CE8C-4453-ADAF-9CB207156ABD}.Release|x86.ActiveCfg = Release|Win32
 		{55BC2AB3-CE8C-4453-ADAF-9CB207156ABD}.Release|x86.Build.0 = Release|Win32
+		{ED40F300-F7E6-446C-9DA0-DD5256A0A890}.Debug|x64.ActiveCfg = Debug|x64
+		{ED40F300-F7E6-446C-9DA0-DD5256A0A890}.Debug|x64.Build.0 = Debug|x64
+		{ED40F300-F7E6-446C-9DA0-DD5256A0A890}.Debug|x86.ActiveCfg = Debug|Win32
+		{ED40F300-F7E6-446C-9DA0-DD5256A0A890}.Debug|x86.Build.0 = Debug|Win32
+		{ED40F300-F7E6-446C-9DA0-DD5256A0A890}.Release|x64.ActiveCfg = Release|x64
+		{ED40F300-F7E6-446C-9DA0-DD5256A0A890}.Release|x64.Build.0 = Release|x64
+		{ED40F300-F7E6-446C-9DA0-DD5256A0A890}.Release|x86.ActiveCfg = Release|Win32
+		{ED40F300-F7E6-446C-9DA0-DD5256A0A890}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
