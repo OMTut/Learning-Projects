@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Learning_Projects.dir/CA-03-DollarConversion/CA-03-DollarConversion.cpp.o  -o Learning_Projects 
