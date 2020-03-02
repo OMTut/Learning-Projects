@@ -6,9 +6,9 @@
 
 #IncludeRegexTransform: 
 
-/home/tuttle/Tut/C++/Learning-Projects/CA-05-Magic8/magic8.cpp
+/home/tuttle/Tut/C++/Learning-Projects/CA-06-SortingHat/SortingHat.cpp
 iostream
 -
-cstdlib
+string
 -
 

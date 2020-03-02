@@ -57,27 +57,27 @@ include CMakeFiles/Learning_Projects.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/Learning_Projects.dir/flags.make
 
-CMakeFiles/Learning_Projects.dir/CA-03-DollarConversion/CA-03-DollarConversion.cpp.o: CMakeFiles/Learning_Projects.dir/flags.make
-CMakeFiles/Learning_Projects.dir/CA-03-DollarConversion/CA-03-DollarConversion.cpp.o: ../CA-03-DollarConversion/CA-03-DollarConversion.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/tuttle/Tut/C++/Learning-Projects/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Learning_Projects.dir/CA-03-DollarConversion/CA-03-DollarConversion.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Learning_Projects.dir/CA-03-DollarConversion/CA-03-DollarConversion.cpp.o -c /home/tuttle/Tut/C++/Learning-Projects/CA-03-DollarConversion/CA-03-DollarConversion.cpp
+CMakeFiles/Learning_Projects.dir/CA-06-SortingHat/SortingHat.cpp.o: CMakeFiles/Learning_Projects.dir/flags.make
+CMakeFiles/Learning_Projects.dir/CA-06-SortingHat/SortingHat.cpp.o: ../CA-06-SortingHat/SortingHat.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/tuttle/Tut/C++/Learning-Projects/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Learning_Projects.dir/CA-06-SortingHat/SortingHat.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Learning_Projects.dir/CA-06-SortingHat/SortingHat.cpp.o -c /home/tuttle/Tut/C++/Learning-Projects/CA-06-SortingHat/SortingHat.cpp
 
-CMakeFiles/Learning_Projects.dir/CA-03-DollarConversion/CA-03-DollarConversion.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Learning_Projects.dir/CA-03-DollarConversion/CA-03-DollarConversion.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/tuttle/Tut/C++/Learning-Projects/CA-03-DollarConversion/CA-03-DollarConversion.cpp > CMakeFiles/Learning_Projects.dir/CA-03-DollarConversion/CA-03-DollarConversion.cpp.i
+CMakeFiles/Learning_Projects.dir/CA-06-SortingHat/SortingHat.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Learning_Projects.dir/CA-06-SortingHat/SortingHat.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/tuttle/Tut/C++/Learning-Projects/CA-06-SortingHat/SortingHat.cpp > CMakeFiles/Learning_Projects.dir/CA-06-SortingHat/SortingHat.cpp.i
 
-CMakeFiles/Learning_Projects.dir/CA-03-DollarConversion/CA-03-DollarConversion.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Learning_Projects.dir/CA-03-DollarConversion/CA-03-DollarConversion.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/tuttle/Tut/C++/Learning-Projects/CA-03-DollarConversion/CA-03-DollarConversion.cpp -o CMakeFiles/Learning_Projects.dir/CA-03-DollarConversion/CA-03-DollarConversion.cpp.s
+CMakeFiles/Learning_Projects.dir/CA-06-SortingHat/SortingHat.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Learning_Projects.dir/CA-06-SortingHat/SortingHat.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/tuttle/Tut/C++/Learning-Projects/CA-06-SortingHat/SortingHat.cpp -o CMakeFiles/Learning_Projects.dir/CA-06-SortingHat/SortingHat.cpp.s
 
 # Object files for target Learning_Projects
 Learning_Projects_OBJECTS = \
-"CMakeFiles/Learning_Projects.dir/CA-03-DollarConversion/CA-03-DollarConversion.cpp.o"
+"CMakeFiles/Learning_Projects.dir/CA-06-SortingHat/SortingHat.cpp.o"
 
 # External object files for target Learning_Projects
 Learning_Projects_EXTERNAL_OBJECTS =
 
-Learning_Projects: CMakeFiles/Learning_Projects.dir/CA-03-DollarConversion/CA-03-DollarConversion.cpp.o
+Learning_Projects: CMakeFiles/Learning_Projects.dir/CA-06-SortingHat/SortingHat.cpp.o
 Learning_Projects: CMakeFiles/Learning_Projects.dir/build.make
 Learning_Projects: CMakeFiles/Learning_Projects.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/tuttle/Tut/C++/Learning-Projects/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable Learning_Projects"

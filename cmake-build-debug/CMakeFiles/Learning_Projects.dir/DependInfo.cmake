@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/tuttle/Tut/C++/Learning-Projects/CA-03-DollarConversion/CA-03-DollarConversion.cpp" "/home/tuttle/Tut/C++/Learning-Projects/cmake-build-debug/CMakeFiles/Learning_Projects.dir/CA-03-DollarConversion/CA-03-DollarConversion.cpp.o"
+  "/home/tuttle/Tut/C++/Learning-Projects/CA-06-SortingHat/SortingHat.cpp" "/home/tuttle/Tut/C++/Learning-Projects/cmake-build-debug/CMakeFiles/Learning_Projects.dir/CA-06-SortingHat/SortingHat.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/Learning_Projects.dir/CA-03-DollarConversion/CA-03-DollarConversion.cpp.o"
+  "CMakeFiles/Learning_Projects.dir/CA-06-SortingHat/SortingHat.cpp.o"
   "Learning_Projects"
   "Learning_Projects.pdb"
 )

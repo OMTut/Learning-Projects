@@ -123,32 +123,32 @@ Learning_Projects/fast:
 	$(MAKE) -f CMakeFiles/Learning_Projects.dir/build.make CMakeFiles/Learning_Projects.dir/build
 .PHONY : Learning_Projects/fast
 
-CA-05-Magic8/magic8.o: CA-05-Magic8/magic8.cpp.o
+CA-06-SortingHat/SortingHat.o: CA-06-SortingHat/SortingHat.cpp.o
 
-.PHONY : CA-05-Magic8/magic8.o
+.PHONY : CA-06-SortingHat/SortingHat.o
 
 # target to build an object file
-CA-05-Magic8/magic8.cpp.o:
-	$(MAKE) -f CMakeFiles/Learning_Projects.dir/build.make CMakeFiles/Learning_Projects.dir/CA-05-Magic8/magic8.cpp.o
-.PHONY : CA-05-Magic8/magic8.cpp.o
+CA-06-SortingHat/SortingHat.cpp.o:
+	$(MAKE) -f CMakeFiles/Learning_Projects.dir/build.make CMakeFiles/Learning_Projects.dir/CA-06-SortingHat/SortingHat.cpp.o
+.PHONY : CA-06-SortingHat/SortingHat.cpp.o
 
-CA-05-Magic8/magic8.i: CA-05-Magic8/magic8.cpp.i
+CA-06-SortingHat/SortingHat.i: CA-06-SortingHat/SortingHat.cpp.i
 
-.PHONY : CA-05-Magic8/magic8.i
+.PHONY : CA-06-SortingHat/SortingHat.i
 
 # target to preprocess a source file
-CA-05-Magic8/magic8.cpp.i:
-	$(MAKE) -f CMakeFiles/Learning_Projects.dir/build.make CMakeFiles/Learning_Projects.dir/CA-05-Magic8/magic8.cpp.i
-.PHONY : CA-05-Magic8/magic8.cpp.i
+CA-06-SortingHat/SortingHat.cpp.i:
+	$(MAKE) -f CMakeFiles/Learning_Projects.dir/build.make CMakeFiles/Learning_Projects.dir/CA-06-SortingHat/SortingHat.cpp.i
+.PHONY : CA-06-SortingHat/SortingHat.cpp.i
 
-CA-05-Magic8/magic8.s: CA-05-Magic8/magic8.cpp.s
+CA-06-SortingHat/SortingHat.s: CA-06-SortingHat/SortingHat.cpp.s
 
-.PHONY : CA-05-Magic8/magic8.s
+.PHONY : CA-06-SortingHat/SortingHat.s
 
 # target to generate assembly for a file
-CA-05-Magic8/magic8.cpp.s:
-	$(MAKE) -f CMakeFiles/Learning_Projects.dir/build.make CMakeFiles/Learning_Projects.dir/CA-05-Magic8/magic8.cpp.s
-.PHONY : CA-05-Magic8/magic8.cpp.s
+CA-06-SortingHat/SortingHat.cpp.s:
+	$(MAKE) -f CMakeFiles/Learning_Projects.dir/build.make CMakeFiles/Learning_Projects.dir/CA-06-SortingHat/SortingHat.cpp.s
+.PHONY : CA-06-SortingHat/SortingHat.cpp.s
 
 # Help Target
 help:
@@ -159,9 +159,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... Learning_Projects"
 	@echo "... edit_cache"
-	@echo "... CA-05-Magic8/magic8.o"
-	@echo "... CA-05-Magic8/magic8.i"
-	@echo "... CA-05-Magic8/magic8.s"
+	@echo "... CA-06-SortingHat/SortingHat.o"
+	@echo "... CA-06-SortingHat/SortingHat.i"
+	@echo "... CA-06-SortingHat/SortingHat.s"
 .PHONY : help
 
 
