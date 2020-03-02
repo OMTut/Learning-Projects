@@ -123,32 +123,32 @@ Learning_Projects/fast:
 	$(MAKE) -f CMakeFiles/Learning_Projects.dir/build.make CMakeFiles/Learning_Projects.dir/build
 .PHONY : Learning_Projects/fast
 
-CA-03-DollarConversion/CA-03-DollarConversion.o: CA-03-DollarConversion/CA-03-DollarConversion.cpp.o
+CA-05-Magic8/magic8.o: CA-05-Magic8/magic8.cpp.o
 
-.PHONY : CA-03-DollarConversion/CA-03-DollarConversion.o
+.PHONY : CA-05-Magic8/magic8.o
 
 # target to build an object file
-CA-03-DollarConversion/CA-03-DollarConversion.cpp.o:
-	$(MAKE) -f CMakeFiles/Learning_Projects.dir/build.make CMakeFiles/Learning_Projects.dir/CA-03-DollarConversion/CA-03-DollarConversion.cpp.o
-.PHONY : CA-03-DollarConversion/CA-03-DollarConversion.cpp.o
+CA-05-Magic8/magic8.cpp.o:
+	$(MAKE) -f CMakeFiles/Learning_Projects.dir/build.make CMakeFiles/Learning_Projects.dir/CA-05-Magic8/magic8.cpp.o
+.PHONY : CA-05-Magic8/magic8.cpp.o
 
-CA-03-DollarConversion/CA-03-DollarConversion.i: CA-03-DollarConversion/CA-03-DollarConversion.cpp.i
+CA-05-Magic8/magic8.i: CA-05-Magic8/magic8.cpp.i
 
-.PHONY : CA-03-DollarConversion/CA-03-DollarConversion.i
+.PHONY : CA-05-Magic8/magic8.i
 
 # target to preprocess a source file
-CA-03-DollarConversion/CA-03-DollarConversion.cpp.i:
-	$(MAKE) -f CMakeFiles/Learning_Projects.dir/build.make CMakeFiles/Learning_Projects.dir/CA-03-DollarConversion/CA-03-DollarConversion.cpp.i
-.PHONY : CA-03-DollarConversion/CA-03-DollarConversion.cpp.i
+CA-05-Magic8/magic8.cpp.i:
+	$(MAKE) -f CMakeFiles/Learning_Projects.dir/build.make CMakeFiles/Learning_Projects.dir/CA-05-Magic8/magic8.cpp.i
+.PHONY : CA-05-Magic8/magic8.cpp.i
 
-CA-03-DollarConversion/CA-03-DollarConversion.s: CA-03-DollarConversion/CA-03-DollarConversion.cpp.s
+CA-05-Magic8/magic8.s: CA-05-Magic8/magic8.cpp.s
 
-.PHONY : CA-03-DollarConversion/CA-03-DollarConversion.s
+.PHONY : CA-05-Magic8/magic8.s
 
 # target to generate assembly for a file
-CA-03-DollarConversion/CA-03-DollarConversion.cpp.s:
-	$(MAKE) -f CMakeFiles/Learning_Projects.dir/build.make CMakeFiles/Learning_Projects.dir/CA-03-DollarConversion/CA-03-DollarConversion.cpp.s
-.PHONY : CA-03-DollarConversion/CA-03-DollarConversion.cpp.s
+CA-05-Magic8/magic8.cpp.s:
+	$(MAKE) -f CMakeFiles/Learning_Projects.dir/build.make CMakeFiles/Learning_Projects.dir/CA-05-Magic8/magic8.cpp.s
+.PHONY : CA-05-Magic8/magic8.cpp.s
 
 # Help Target
 help:
@@ -159,9 +159,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... Learning_Projects"
 	@echo "... edit_cache"
-	@echo "... CA-03-DollarConversion/CA-03-DollarConversion.o"
-	@echo "... CA-03-DollarConversion/CA-03-DollarConversion.i"
-	@echo "... CA-03-DollarConversion/CA-03-DollarConversion.s"
+	@echo "... CA-05-Magic8/magic8.o"
+	@echo "... CA-05-Magic8/magic8.i"
+	@echo "... CA-05-Magic8/magic8.s"
 .PHONY : help
 
 

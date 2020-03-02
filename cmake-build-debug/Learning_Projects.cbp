@@ -84,7 +84,7 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/home/tuttle/Tut/C++/Learning-Projects/CA-03-DollarConversion/CA-03-DollarConversion.cpp">
+		<Unit filename="/home/tuttle/Tut/C++/Learning-Projects/CA-05-Magic8/magic8.cpp">
 			<Option target="Learning_Projects"/>
 		</Unit>
 		<Unit filename="/home/tuttle/Tut/C++/Learning-Projects/CMakeLists.txt">
